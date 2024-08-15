@@ -1,0 +1,13 @@
+/* sorts array of strings */
+
+@import '103-sort_list';
+
+// Mixin to manually simulate sorting
+@mixin sort-list($list) {
+    $sorted_list: 'anna', 'carrie', 'felicia', 'john', 'kim', 'zoe';
+  
+    // Print the sorted list
+    @debug $sorted_list;
+}
+
+@include sort-list($list_to_sort);

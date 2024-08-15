@@ -1,0 +1,6 @@
+3.7.4
+054507814724eaac0f3bbbd94b6b6f140219a2f0
+o:Sass::Tree::RootNode:@children[o:Sass::Tree::VariableNode:
+@nameI"color_red:ET:
+@expro: Sass::Script::Tree::Literal	:@valueo:Sass::Script::Value::Color	;0:
+@options{
